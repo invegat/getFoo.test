@@ -6,12 +6,12 @@ ___
 git clone https://github.com/invegat/getFoo.test.git
 
 # change directory 
-cd angutype
+cd getFoo.test
 
 # install with npm
 npm install
 
-# start the server (for chapter 8 client server)
-npm start
+# start the test
+npm test
 
 
