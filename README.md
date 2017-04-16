@@ -14,4 +14,7 @@ npm install
 # start the test
 npm test
 
+___ 
 
+# alteratively copy the contents of https://github.com/invegat/getFoo.test/blob/master/getFoo.all.js
+# to https://repl.it/languages/javascript
